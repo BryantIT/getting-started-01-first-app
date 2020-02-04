@@ -1,7 +1,6 @@
 # First app JS course Work on Udemy
 
-One Paragraph of project description goes here
-
+First app for Udemy. Done.
 ## Getting Started
 
 Find this course here: https://www.udemy.com/share/1029RkCUUZc1dXR34=/
